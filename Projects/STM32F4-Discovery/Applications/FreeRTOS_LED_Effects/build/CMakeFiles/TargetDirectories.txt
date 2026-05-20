@@ -1,0 +1,4 @@
+C:/wbs/STM32CubeF4/Projects/STM32F4-Discovery/Applications/FreeRTOS_LED_Effects/build/CMakeFiles/FreeRTOS_LED_Effects.dir
+C:/wbs/STM32CubeF4/Projects/STM32F4-Discovery/Applications/FreeRTOS_LED_Effects/build/CMakeFiles/flash.dir
+C:/wbs/STM32CubeF4/Projects/STM32F4-Discovery/Applications/FreeRTOS_LED_Effects/build/CMakeFiles/edit_cache.dir
+C:/wbs/STM32CubeF4/Projects/STM32F4-Discovery/Applications/FreeRTOS_LED_Effects/build/CMakeFiles/rebuild_cache.dir

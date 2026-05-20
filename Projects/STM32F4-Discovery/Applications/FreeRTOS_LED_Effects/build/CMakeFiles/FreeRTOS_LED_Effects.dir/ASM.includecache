@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/wbs/STM32CubeF4/Projects/STM32F4-Discovery/Applications/FreeRTOS_LED_Effects/STM32CubeIDE/Application/Startup/startup_stm32f407vgtx.s
+
